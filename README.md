@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻  About Me
 
-### 👨🏻‍💻   Eu tive meu primeiro contato com linhas de código aos 15 anos de idade, quando queria criar um website de alugueis de imoveis.Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+### 👨🏻‍💻   Eu tive meu primeiro contato com linhas de código aos 18 anos de idade, quando queria criar um website de alugueis de imoveis.Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 
 ### 💚   Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele, atravez de projetos que possam impactar de forma positiva na vida das pessoas.
 
