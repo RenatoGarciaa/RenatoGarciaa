@@ -1,5 +1,5 @@
 
-### 👋  Olá, eu sou o Renato, um desenvolvedor Front-Endapaixonado pelo que faz!
+### 👋  Olá, eu sou o Renato, um desenvolvedor Front-End apaixonado pelo que faz!
 
 
  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYFuMHgUv7lJJGnq8W37QQA)
