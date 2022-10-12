@@ -12,7 +12,7 @@
 
 ### 💚   Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele, atravez de projetos que possam impactar de forma positiva na vida das pessoas.
 
-### 🚀   Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo o Htnl, Css, JavaScript e React para desenvolver em ambas as frentes.
+### 🚀   Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo o HtMl, Css, JavaScript e React para desenvolver em ambas as frentes.
 
 ### 🏎   Sou apaixonado por esportes, especialmente pelo futebol e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça lendo livros e assistindo algumas series
 
